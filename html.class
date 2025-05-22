@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">мои сайты</a>
+    </header>
+    <main>
+      <h1>Науменко Андрей</h1>
+      <ul>
+        <li>люблю играть в GTA 5RP</li>
+        <li>люблю делать карты для игры teardown</li>
+        <li>делаю сайты</li>
+      </ul>
+      <iframe width="720" height="405" src="https://rutube.ru/play/embed/1a441cd4bd98738e8b8f478db1bda2b1/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+      <iframe width="720" height="405" src="https://www.youtube.com/embed/4JXOk_Hcqdw?si=V9dHaR4gGYe9vIzd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </main>
+    <footer>
+      
+    </footer>
+  </body>
+</html>
